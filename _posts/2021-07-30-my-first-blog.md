@@ -8,4 +8,4 @@ image: arctic-2.jpg
 ---
 
 It's my first blog.
-<iframe width="560" height="315" src="https://www.douyu.com/71415" frameborder="0" allowfullscreen></iframe>
+![avatar](/assets/css/city-1.jpg)
