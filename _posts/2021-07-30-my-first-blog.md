@@ -8,4 +8,4 @@ image: arctic-2.jpg
 ---
 
 It's my first blog.
-![avatar](/assets/css/city-1.jpg)
+![avatar](/home/assets/img/city-1.jpg)
