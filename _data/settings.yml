@@ -28,7 +28,7 @@ pagination:
   next_page: '下一页'
   previous_page: '上一页'
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: ''
 
 related_posts: 'You may also enjoy...'
 
