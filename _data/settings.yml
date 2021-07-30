@@ -16,11 +16,11 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link:    'https://twitter.com/paululele'}
+- {icon: 'qq', link:    'https://qq.com/paululele'}
 - {icon: 'facebook', link:   'https://www.facebook.com/paululele'}
 - {icon: 'instagram', link:  'https://instagram.com/hestephen3'}
 - {icon: 'envelope', link:   'mailto:b1vampire@sina.cn'}
-- {icon: 'rss-square', link: 'feed.xml'}
+- {icon: 'sina', link: 'https://sina.cn'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text
