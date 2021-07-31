@@ -36,7 +36,7 @@
 
 .fa-weibo {
   padding: 5px;
-  @include social-media-icon($facebook-color, $icon-transition-time);
+  @include social-media-icon($weibo-color, $icon-transition-time);
 }
 
 .fa-google-plus {
