@@ -11,8 +11,8 @@ menu:
 - {name: '学习日记', url: 'resources'}
 - {name: '生活分享',       url: 'sample-posts'}
 - {name: '音乐爱好',      url: 'documentation'}
-- {name: 'About Me',              url: 'about'}
-- {name: 'Contact',            url: 'contact'}
+- {name: '关于我',              url: 'about'}
+- {name: '联系',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
