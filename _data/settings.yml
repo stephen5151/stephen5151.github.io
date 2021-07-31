@@ -8,8 +8,8 @@ google-ID: ''
 
 menu:
 - {name: 'Interesting Facts',  url: 'facts'}
-- {name: '学习日记', url: 'learning diari'}
-- {name: '生活分享',       url: 'life-share'}
+- {name: '学习日记', url: 'learning'}
+- {name: '生活分享',       url: 'share'}
 - {name: '音乐爱好',      url: 'music'}
 - {name: '关于我',              url: 'about'}
 - {name: '联系',            url: 'contact'}
