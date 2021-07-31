@@ -16,11 +16,11 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link:    'https://qq.com/paululele'}
-- {icon: 'facebook', link:   'https://www.facebook.com/paululele'}
+- {icon: 'steam', link:    'https://steamcommunity.com/profiles/76561198323455218/'}
+- {icon: 'weibo', link:   'https://weibo.com/3049257360/profile?topnav=1&wvr=6&is_all=1'}
 - {icon: 'instagram', link:  'https://instagram.com/hestephen3'}
 - {icon: 'envelope', link:   'mailto:b1vampire@sina.cn'}
-- {icon: 'weixin', link: 'https://sina.cn'}
+- {icon: 'youtube', link: 'https://www.youtube.com/channel/UChYr9RUyTyXRZ4nRge55S8A'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text
