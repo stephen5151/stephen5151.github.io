@@ -8,10 +8,10 @@ google-ID: ''
 
 menu:
 - {name: 'Interesting Facts',  url: 'facts'}
-- {name: 'Learning Resources', url: 'resources'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
-- {name: 'Documentation',      url: 'documentation'}
-- {name: 'About',              url: 'about'}
+- {name: '学习日记', url: 'resources'}
+- {name: '生活分享',       url: 'sample-posts'}
+- {name: '音乐爱好',      url: 'documentation'}
+- {name: 'About Me',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
