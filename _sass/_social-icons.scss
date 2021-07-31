@@ -34,7 +34,7 @@
   @include social-media-icon($linkedin-color, $icon-transition-time);
 }
 
-.fa-facebook {
+.fa-weibo {
   padding: 5px;
   @include social-media-icon($facebook-color, $icon-transition-time);
 }
@@ -44,7 +44,7 @@
   @include social-media-icon($google-color, $icon-transition-time);
 }
 
-.fa-pinterest {
+.fa-youtube {
   padding: 5px;
   @include social-media-icon($pinterest-color, $icon-transition-time);
 }

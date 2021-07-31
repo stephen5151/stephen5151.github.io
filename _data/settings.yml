@@ -16,7 +16,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'steam', link:    'https://steamcommunity.com/profiles/76561198323455218/'}
+- {icon: 'github', link:    'https://github.com/stephen5151'}
 - {icon: 'weibo', link:   'https://weibo.com/3049257360/profile?topnav=1&wvr=6&is_all=1'}
 - {icon: 'instagram', link:  'https://instagram.com/hestephen3'}
 - {icon: 'envelope', link:   'mailto:b1vampire@sina.cn'}
