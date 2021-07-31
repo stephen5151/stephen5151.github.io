@@ -10,9 +10,9 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Stephen He"
+title:		           "Deja Vu"
 description:	       "一个记录生活和分享学习的地方"
-author:              "Paul Le"
+author:              "Stephen He"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
