@@ -2,7 +2,7 @@
 layout: post
 title: "My first live"
 author: "Stephen He"
-categories: resources
+categories: share
 tags: [documentation,sample]
 image: live-1.jpg
 ---
