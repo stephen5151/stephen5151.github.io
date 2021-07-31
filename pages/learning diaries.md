@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Learning diaries
-category: resources
-permalink: /resources
+category: learning  
+permalink: /learning
 ---
