@@ -8,3 +8,4 @@ permalink: /contact
 **Wechat：**v981643284  
 ![wechat](../assets/img/wechat.jpg)
 **QQ:**981643284
+**Email me:**b1vampire@sina.cn *or*vimages51@gmail.com
