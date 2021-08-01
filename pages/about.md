@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 permalink: /about
-image: keyboard.JPG
+
 ---
 ![MyMidiKeyboard](../assets/img/keyboard.JPG "midi keyboard")
 ---
