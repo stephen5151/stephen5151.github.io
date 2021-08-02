@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: '技术科普',  url: 'facts'}
+- {name: '技术科普',  url: 'tech'}
 - {name: '学习日记', url: 'learning'}
 - {name: '生活分享',       url: 'share'}
 - {name: '音乐爱好',      url: 'music'}
