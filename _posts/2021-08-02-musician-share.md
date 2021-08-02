@@ -4,7 +4,7 @@ title: "Excellent Musician-Charlie Burg"
 author: "Stephen He"
 categories: music
 tags: [music]
-image: cuba-2.jpg
+image: CB-1.jpg
 ---
 
 https://www.charlieburg.world/
