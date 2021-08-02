@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "My first live"
+title: "第一场现场演出"
 author: "Stephen He"
 categories: share
-tags: [documentation,sample]
+tags: [live,share]
 image: live-1.jpg
 ---
 
