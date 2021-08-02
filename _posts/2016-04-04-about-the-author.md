@@ -2,7 +2,7 @@
 layout: post
 title: "About the Author"
 author: "Paul Le"
-categories: tech
+categories: 
 tags: [tech]
 image: cuba-2.jpg
 ---
