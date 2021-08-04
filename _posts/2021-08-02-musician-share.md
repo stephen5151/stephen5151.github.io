@@ -58,6 +58,6 @@ image: CB.jpg
 
   Charlie Burg的歌曲网易云大部分都有，大家可以直接搜歌手名字。真的是一位很棒很棒的音乐人，他的每首歌听着都会有惊喜。且不说声线令人陶醉，他的歌还不局限于一种风格，可以听得出他每首歌里都有不同元素在里面，我印象最深的是那首Intentions，唱的部分已经很惊艳了，后半段出来的萨克斯立马把温暖的氛围推到极点。  
 Charlie Burg还有自己网站  
-(https://www.charlieburg.world/)
+<https://www.charlieburg.world/>
  更具体地关于Charlie Burg的音乐作品可以在Genius上搜到他。
-(https://genius.com/artists/Charlie-burg)
+<https://genius.com/artists/Charlie-burg>
