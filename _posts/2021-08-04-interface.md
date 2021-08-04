@@ -72,7 +72,7 @@ S/PDIF是*Snoy/Philips Digital Interconnect Format*缩写，数字接口，一�
 [2]:<https://blog.csdn.net/qq_29214249/article/details/54924010>  
 [3]:<https://blog.csdn.net/ytffhew/article/details/83618007>  
 [4]:<https://www.21ic.com/article/894827.html>  
-[5]:https://zhuanlan.zhihu.com/p/35197368  
-[6]:https://www.cnblogs.com/guanghe/p/12512055.html
-[7]:https://www.office26.com/computer/computer_16506.html
-[8]:http://www.headphoneclub.com/thread-278047-1-1.html
+[5]:<https://zhuanlan.zhihu.com/p/35197368>  
+[6]:<https://www.cnblogs.com/guanghe/p/12512055.html>
+[7]:<https://www.office26.com/computer/computer_16506.html>
+[8]:<http://www.headphoneclub.com/thread-278047-1-1.html>
