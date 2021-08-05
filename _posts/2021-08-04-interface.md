@@ -99,14 +99,14 @@ VGA(*Video Graphics Array视频图形阵列，又叫D-Sub*)。最早的VGA接口
 DVI(*Digital Visual Interface*)数字视频接口  
 ![DVI接头](../assets/img/DVI.png)  
 <center style="font-size:14px;color:#696969;">DVI接头</center>  
-![DVI接头](../assets/img/DVI2.png)  
+![DVI接头](../assets/img/DVI1.png)  
 <center style="font-size:14px;color:#696969;">不同类型的DVI接头</center>  
 
 
 
 
 ### (3) HDMI接口  
-HDMI(*High Definition Multimedia Interface*)高清多媒体接口。HDMI接口*不仅传输带宽大，而且还可以同时传输未压缩音视频信号*。HDMI的数据传输包括TMDS0,TMDS1,TMDS2三个通道和一个时钟。  
+HDMI(*High Definition Multimedia Interface*)高清多媒体接口。HDMI接口 ***不仅传输带宽大，而且还可以同时传输未压缩音视频信号***。HDMI的数据传输包括TMDS0,TMDS1,TMDS2三个通道和一个时钟。  
 >如果传输的是Video Data（视频信息），并且格式为RGB，那么会占用三个通道的所有24bit输入，Channel0[7:0]用户传输B，Channel1[7:0]用于传输G，Channel2[7:0]用于传输R。
 
 >  2.如果传输的是Data Island（数据包），则占用三个通道共10bit输入，Channel0[3:2]用于传输Data Island Header（包头），Channel1[0:3]与Channel2[0:3]用于传输Data Island Content（包内数据）。
@@ -137,7 +137,7 @@ HDMI(*High Definition Multimedia Interface*)高清多媒体接口。HDMI接口*�
 
 ### (5) USB type-c  
 USB Type-c(*Universal Serial BUG TYPE-C*)通用串行总线类型C。将USB接口运用在视频传输上，应该归功于DP技术。因为既然DP可以用数据包的形式传输视频，所以出现接口使用USB（普及度高）传输DP数据包的技术，它跟DP接口的传输特性是一样的。  
-![USB-C](../assets/img/USBTYPE.png)  
+![USB-C](../assets/img/USPTYPE.png)  
 <center style="font-size:14px;color:#696969;">USB type-C</center>  
 ![USBspeed](../assets/img/USB.png)  
 <center style="font-size:14px;color:#696969;">不同USB版本的速度</center>  
