@@ -160,7 +160,7 @@ USB Type-c(*Universal Serial BUG TYPE-C*)通用串行总线类型C。将USB接�
 
 ### (8) S-端子
 S-端子也称（Y/C），也叫“二分量视频接口”。S指的是“SEPARATE（分离）”，*它将亮度和色度分离输出，避免了混合视讯讯号输出时亮度和色度的相互干扰*。S接口实际上时一种五芯接口，由两路视亮度信号、两路视频色度信号和一路公共屏蔽底线组成。  
-![S-端子](../assets/img/S.png)  
+![S-端子](../assets/img/S.jpg)  
 <center style="font-size:14px;color:#696969;">S-端子接口</center>  
 
 
