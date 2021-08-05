@@ -51,7 +51,7 @@ S/PDIF是*Snoy/Philips Digital Interconnect Format*缩写，数字接口，一�
 
 
 ### (6) 数字音频接口之同轴接口  
-数字同轴 (*Digital Coaxial*)是利用S/PDIF接口输出数字音频接口。同轴数字接口：有 **RCA同轴数字接口**和**BNC接口**。前者外观和模拟RCA接口没什么区别，但线不能够混用，由于RCA同轴线是固定**75欧姆阻抗**，混用线会造成声音传输的不稳定，使音质下降。后者是有锁紧设计，不易松动。
+数字同轴 (*Digital Coaxial*)是利用S/PDIF接口输出数字音频接口。同轴数字接口： **RCA同轴数字接口**和**BNC接口**。前者外观和模拟RCA接口没什么区别，但线不能够混用，由于RCA同轴线是固定**75欧姆阻抗**，混用线会造成声音传输的不稳定，使音质下降。后者是有锁紧设计，不易松动。
 ![BNC接头](../assets/img/tongzhou1.png)   
 <center style="font-size:14px;color:#696969;">BNC接头</center>
 ![RCA接头](../assets/img/tongzhou2.png)  
@@ -82,6 +82,10 @@ S/PDIF是*Snoy/Philips Digital Interconnect Format*缩写，数字接口，一�
 欧姆头，又叫贝尔头，塞克头。欧姆接头分为1+，1-,2+,2-,因为怕短路，因此正极比负极的接口范围较小些。
 ![欧姆接头](../assets/img/oumu1.png)  
 <center style="font-size:14px;color:#696969;">欧姆接头</center>  
+
+
+
+
 
 
 # 2、视频接口介绍  
