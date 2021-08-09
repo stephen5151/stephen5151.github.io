@@ -4,7 +4,7 @@ title: "关于音视频数据量的计算"
 author: "Stephen He"
 categories: tech
 tags: [tech]
-image: ODIN.png
+image: calculate.png
 ---
 在要计算前，要想了解下单位。  
 bit是最小的单位，1bit是硬盘的一个位点。
