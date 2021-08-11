@@ -4,7 +4,7 @@ title: "关于数字音频字时钟同步的总结"
 author: "Stephen He"
 categories: share
 tags: [share]
-image: broadcast.jpg
+image: timeclock.jpg
 ---
 1、字时钟同步方式：设置一个时间码，让所有设备都按照这时间码走。  
 2、要产生字时钟同步，用字时钟信号发生器，或者数字音频工作站内部就能设置同步主机，那么其他设备就要设为“外部”同步。  
