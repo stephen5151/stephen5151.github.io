@@ -2,8 +2,8 @@
 layout: post
 title: "关于现场扩声啸叫问题"
 author: "Stephen He"
-categories: share
-tags: [share]
+categories: tech
+tags: [tech]
 image: kuosheng.jpg
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "关于直播视频流"
+title: "关于直播视频流的基本问题"
 author: "Stephen He"
 categories: tech
 tags: [tech]
