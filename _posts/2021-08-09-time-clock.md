@@ -2,8 +2,8 @@
 layout: post
 title: "关于数字音频字时钟同步的总结"
 author: "Stephen He"
-categories: share
-tags: [share]
+categories: tech
+tags: [tech]
 image: timeclock.jpg
 ---
 1、字时钟同步方式：设置一个时间码，让所有设备都按照这时间码走。  
