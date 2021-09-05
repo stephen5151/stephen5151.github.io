@@ -4,7 +4,7 @@ title: "Life-study"
 author: "Stephen He"
 categories: share
 tags: [share]
-image: sky.jpg
+image: sky.JPG
 ---
 ### 今天观morty视频有感
 <https://www.bilibili.com/video/BV1EM4y1G77a?from=search&seid=17542412026683860825&spm_id_from=333.337.0.0>   
